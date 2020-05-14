@@ -16,6 +16,7 @@ The purpose of this project is play around with Fraud Detection concepts and tes
 ### Technologies
 * Python
 * Pandas, jupyter
+* Tensorflow 
 
 
 ## Getting Started
