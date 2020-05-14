@@ -12,6 +12,7 @@ The purpose of this project is play around with Fraud Detection concepts and tes
 * Inferential Statistics
 * Machine Learning , Neural Net
 * Data Visualization
+* Feature Engineering
 * T-SNE 
 ### Technologies
 * Python
